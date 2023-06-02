@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ordep22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ordep22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ordep22&icon=1&color=3)](https://visitcount.itsvg.in)
 
